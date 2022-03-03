@@ -3,8 +3,8 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Software Engineering
+- 🌱 I’m currently SUTD Term4 ISTD Student 🤣
+- 🥅 2022 Goals: Learn more about Java backend development and Golang
 - ⚡ Fun fact: I love to play all sorts of sports
 
 
