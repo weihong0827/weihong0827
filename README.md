@@ -3,16 +3,16 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently SUTD Term4 ISTD Student 🤣
-- 🥅 2022 Goals: Learn more about Java backend development and Golang
-- ⚡ Fun fact: I love to play all sorts of sports
+- 🌱 I’m currently SUTD Term 7 ISTD Student 🤣
+- 🥅 2023 Goals: ALL IN GENERATIVE AI
+- ⚡ Fun fact: I have travelled over 45 cities in the past year
 
 
 ### Connect with me:
 
-<!-- [![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
-&nbsp;&nbsp; -->
+[![website](./img/globe-light.svg)](https://infiniteloop.weihong.tech#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://infiniteloop.weihong.tech#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/weihong0225#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/weihong0225#gh-dark-mode-only)
