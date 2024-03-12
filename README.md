@@ -3,7 +3,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently SUTD Term 7 ISTD Student 🤣
+- 🌱 I’m currently a final year SUTD ISTD Student 🤣
 - 🥅 2023 Goals: ALL IN GENERATIVE AI
 - ⚡ Fun fact: I have travelled over 45 cities in the past year
 
